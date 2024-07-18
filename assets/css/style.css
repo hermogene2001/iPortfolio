@@ -1086,11 +1086,11 @@ section {
   padding: 15px;
   color: #f4f6fd;
   font-size: 14px;
-  position: fixed;
-  left: 0;
+  position: relative;
+  right: 0;
   bottom: 0;
-  width: 300px;
   z-index: 9999;
+  margin-left: 267px;
   background: #040b14;
 }
 
